@@ -1,4 +1,4 @@
-# innopolis.machine_learning_assignments
+# Практическое задание по блоку машинного обучения
 
 <details>
   <summary>
