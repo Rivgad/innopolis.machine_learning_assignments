@@ -1,0 +1,8 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": null,
+        "editor.formatOnSave": true
+    },
+    "python.analysis.typeCheckingMode": "basic",
+    "notebook.formatOnSave.enabled": true
+}
